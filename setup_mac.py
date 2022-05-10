@@ -1,3 +1,4 @@
+#This tool has not been tested for mac OSX
 import distutils
 from distutils import core
 import os
