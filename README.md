@@ -7,3 +7,18 @@ The ToStem tool is command-line only.
 ### Requirements:
 
 argparse
+
+## Usage
+
+```
+usage: NI-Stem [-h] {create,info} ...
+
+positional arguments:
+  {create,info}
+    create       Create a STEM container file.
+    info         View STEM metadata.
+
+optional arguments:
+  -h, --help     show this help message and exit
+```
+
