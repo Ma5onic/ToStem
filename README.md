@@ -11,7 +11,7 @@ argparse
 ## Usage
 
 ```
-usage: NI-Stem [-h] {create,info} ...
+usage: ni-stem [-h] {create,info} ...
 
 positional arguments:
   {create,info}
