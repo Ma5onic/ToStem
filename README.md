@@ -1,4 +1,4 @@
-# ToStem
+# ToStem, or not ToStem.. That is the question.
 
 The ToStem tool is command-line only.
 
